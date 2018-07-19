@@ -1,3 +1,3 @@
-[submodule "software/turtlebot2-tutorials"]
-	path = software/turtlebot2-tutorials
+[submodule "Software/turtlebot2-tutorials"]
+	path = Software/turtlebot2-tutorials
 	url = git@github.com:dabit-industries/turtlebot2-tutorials.git
